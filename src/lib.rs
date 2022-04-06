@@ -4,7 +4,6 @@ extern crate serde;
 pub mod account;
 pub mod function;
 pub mod node;
-pub mod result;
 pub mod source;
 pub mod value;
 
